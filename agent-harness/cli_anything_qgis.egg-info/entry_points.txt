@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-qgis = cli_anything.qgis.qgis_cli:main
